@@ -18,7 +18,7 @@ Apache Spark
 Matplotlib
 Python (PySpark)
 How to Use:
-Clone the Repository: git clone https://github.com/yourusername/your-repo.git
+Clone the Repository: git clone https://github.com/OmarAttia95/Car-Prices-Analysis-Omar-Attia/tree/4bfbe584da95545e5c2328c6c928a1dd532b3c4f/ETL-Pipeline-DAG
 
 Install Dependencies: Ensure you have Apache Airflow, Apache Spark, and necessary Python libraries installed.
 
